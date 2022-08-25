@@ -1,6 +1,6 @@
-from streamlit_bokeh_events import streamlit_bokeh_events
-from bokeh.models.widgets import Button
-from bokeh.models import CustomJS
+#from streamlit_bokeh_events import streamlit_bokeh_events
+#from bokeh.models.widgets import Button
+#from bokeh.models import CustomJS
 import streamlit as st
 
 units_list = [
